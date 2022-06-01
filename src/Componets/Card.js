@@ -15,7 +15,6 @@ class Card extends React.Component{
             <div className='ui raised very padded text container segment' style={{marginTop:'80px'}}>
                 <h3 className='ui header'>{title}</h3>
                 <p>{body}</p>
-              
             </div>
         </div>
         )

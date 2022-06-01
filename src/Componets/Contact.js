@@ -23,6 +23,7 @@ const Contact=({cards})=>{
         </div>
     )
 }
+
 const mapStateToprops=(state)=>{
     return {
         cards:state.cards
